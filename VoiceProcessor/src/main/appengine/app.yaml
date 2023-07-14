@@ -1,0 +1,12 @@
+runtime: java17
+instance_class: B1
+service: voiceprocessor
+
+handlers:
+  - url: .*
+    script: auto
+basic_scaling:
+  max_instances: 3
+  idle_timeout: 10m
+service_account: workload@hack-team-thewarroom1.iam.gserviceaccount.com
+

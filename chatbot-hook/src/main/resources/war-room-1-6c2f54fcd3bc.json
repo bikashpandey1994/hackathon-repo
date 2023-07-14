@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "war-room-1",
+  "private_key_id": "6c2f54fcd3bc22b15113248dc03aec5a0a80b43e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDeHpkm0PlfsxF+\n/FS8lveBe04YYvWlQrgpvg/Ugh2Yu765M5XCXXx3bGbmuEo98KXSnR5B9sfEy/6+\nXx/67V60NvnkV5LyafP5WzFOpR5RPdWQuvcifqseTy5KHTpCvGw4OQEqYDAgmgem\nWswzjwj/ZpPt7k0ug/oxHOJWQzjTvBMJRAZAP4J5aUXy0ivuo6VAVmWLvPyq0axR\nyaTSE++5EPtus+iz/gCS+ZhAXypz4GjSrgHedmjfMZSVqVKCAAuaftCVNqPk1mx2\nbaxYxUkVkw4doHnnjIk2x8yjxDaTl5tlnxJc0mhqnlUdhLFO7+Fhteytp+EzDGkV\nb91xYZAfAgMBAAECggEAa6yGjogIEymxpg65HxDJ25VEBtNWBC5DK00MzHXk1gjR\nDGNiyi1abGP6wAZ/SuZw5BexNsXkElTXYT6ouJG/8nmiCtyfCe9tyye3T8oAV96z\nPC0+JxUja5ZzuI7Rks9XYKvVkk69ldhFNBHY4neIo5J8zH7UIGPu8Ubwu2Nr1Utz\n3v0Q5Ud4AHyq7VRv4fuLrovilDvdCHAukim30a0x7USopv62e0aeiSYFum+O5DA+\nVJOh4gtjDxBxm3kTHXYMZiDmtpzUf2h1cXgeTP2PTBKtTl0OqvDjKS8xvtGwugLp\nzUmZSdplFfD5dryeQf+qyJNA/KN6NdHZkbGJX/ZKZQKBgQD1cSCQSyOjity2wY8U\nvPBMHYSvASxOlumdN217R1MVROobz6fzW44/GFgAx3T2QjO7mfkVqywRD39zmIF6\n0O2szL78OFW7zil4T7+TMbSIJwfwz+/MVH1yas5zX2gHgyVBawdioKYZ3xaTClTP\ncQcDKLXCyOkAKd9OElKa9VGM3QKBgQDnrKOBBsPf7m9UWT027m/HuU5/t6iOz2Qo\nJQOyezJ5lZFfj8YWV94dwOiyZQNh9CRoLHBL8dEOebdq5ubhxaJzAwjlqc7up2oe\nEtpOeMd2orWZ+ilc8yBhe29fE6ddcdjfFovzBi051lIPYMoTt4vAReKZIryG/i0t\nzqS8KTyTKwKBgBDToaTi0d2rbnhFCtckIOFHAMqyrOPyaq+xlhrmh+akY9xmPyBq\n/XSL6bSb+APOBBfvdWkr5AiDZHx7Tx0pZ7H6E3ndLtuCRcuOxBaGSNcwvdWfm9QJ\nUtReSCsWtl4Vep9ihA4Z72lEpxqLkcbq+80WpGdnOLofJMUIcotXGDEtAoGAYyg+\n6vCMUYHp4H45dxNigGdNs9hVqpoVUiFVjcSw+90KVY5hyBpflPiGICSf6ALoujWa\n8sZTJhDucjDVzPgb6YH5AuNFEFxTTP/gtAl5xcsqUvcBUSk2SMLeDiGJVrNtkT5D\nNAcGwGR8xtw0YXADvo2qyMRXUKflil+Rnn8/z/UCgYEAhlVRt3CNl5unZcGa1UZO\nqGWc+hg8b7+bsbCQmV3QAGs8JzZ4oFQZJaWKqGMVw0dDMol7D1riBLikaX1IR0uh\n6gSi4FU9nibUiUD/s5ReCw2wQTF6IPXc0mJRJcrApumo/HCa5N8HoFzohTuK4VTS\n7w6Boe5w2LUqxMXG2Bd9Bbs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "war-room-1@appspot.gserviceaccount.com",
+  "client_id": "117165626664264544532",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/war-room-1%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
